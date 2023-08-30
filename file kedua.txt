@@ -1,0 +1,7 @@
+Materi Fullstack Web Developer
+- Desain Web (HTML, CSS, Javascript)
+- PHP
+- Laravel
+- MySQL
+- RestAPI
+- GIT/GITHUB
